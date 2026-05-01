@@ -2,7 +2,7 @@
   "mcpServers": {
     "commander": {
       "command": "node",
-      "args": ["./server/dist/index.js"],
+      "args": ["/Users/rick/FreddyRhetorickProjects/kiro-powers/commander/server/dist/index.js"],
       "env": {}
     }
   }
