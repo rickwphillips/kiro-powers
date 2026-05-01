@@ -8,6 +8,7 @@ A monorepo of [Kiro](https://kiro.dev) Powers. Each subdirectory is a self-conta
 |---|---|---|---|
 | [`commander/`](commander/) | Commander Collector (MTG game-tracking app) project context + version-gap status | tool + resource + embedded server | Yes |
 | [`portfolio/`](portfolio/) | rickwphillips.com project context: architecture, blog posts, deploy, troubleshooting | steering-only | No |
+| [`deploy/`](deploy/) | Deploy commander/portfolio/grandkid/all to prod, with preflight checks (git clean, commander migration location) | single tool | Yes |
 
 ## Installing a Power in Kiro
 
