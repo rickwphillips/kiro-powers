@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "commander": {
+      "command": "node",
+      "args": ["./server/dist/index.js"],
+      "env": {}
+    }
+  }
+}
