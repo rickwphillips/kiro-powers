@@ -4,9 +4,10 @@ A monorepo of [Kiro](https://kiro.dev) Powers. Each subdirectory is a self-conta
 
 ## Powers in this repo
 
-| Power | What it does | Has MCP server? |
-|---|---|---|
-| [`commander/`](commander/) | Commander Collector (MTG game-tracking app) project context + version-gap status | Yes |
+| Power | What it does | Shape | Has MCP server? |
+|---|---|---|---|
+| [`commander/`](commander/) | Commander Collector (MTG game-tracking app) project context + version-gap status | tool + resource + embedded server | Yes |
+| [`portfolio/`](portfolio/) | rickwphillips.com project context: architecture, blog posts, deploy, troubleshooting | steering-only | No |
 
 ## Installing a Power in Kiro
 
