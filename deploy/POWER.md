@@ -31,9 +31,9 @@ After install, `server/dist/index.js` is the entry point referenced from `mcp.js
 
 The tool hardcodes the local paths to each project's `deploy.sh`. Confirm these exist on your machine:
 
-- `/Users/rickphillips/FreddyRhetorickProjects/commander-collector/deploy.sh`
-- `/Users/rickphillips/FreddyRhetorickProjects/website/rickwphillips.com/deploy-portfolio.sh`
-- `/Users/rickphillips/FreddyRhetorickProjects/grandkid-arcade/deploy-grandkid-arcade.sh`
+- `/Users/rickphillips/FreddyRhetorickContexts/commander-collector/deploy.sh`
+- `/Users/rickphillips/FreddyRhetorickContexts/website/rickwphillips.com/deploy-portfolio.sh`
+- `/Users/rickphillips/FreddyRhetorickContexts/grandkid-arcade/deploy-grandkid-arcade.sh`
 
 If any path doesn't match your repo layout, edit `server/src/tools/deploy.ts` (the `SCRIPTS` constant) and rebuild.
 

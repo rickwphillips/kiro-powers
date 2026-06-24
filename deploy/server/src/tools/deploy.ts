@@ -22,7 +22,7 @@ const inputSchema = {
     .describe("Skip git-clean and commander-migration preflight checks. Default false."),
 };
 
-const REPO_ROOT = "/Users/rickphillips/FreddyRhetorickProjects";
+const REPO_ROOT = "/Users/rickphillips/FreddyRhetorickContexts";
 const SCRIPTS = {
   commander: join(REPO_ROOT, "commander-collector/deploy.sh"),
   portfolio: join(REPO_ROOT, "website/rickwphillips.com/deploy-portfolio.sh"),

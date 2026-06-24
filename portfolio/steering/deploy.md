@@ -8,7 +8,7 @@ deploy-portfolio     # local ~/.zshrc alias
 
 The alias resolves to:
 ```bash
-bash /Users/rickphillips/FreddyRhetorickProjects/website/rickwphillips.com/deploy-portfolio.sh
+bash /Users/rickphillips/FreddyRhetorickContexts/website/rickwphillips.com/deploy-portfolio.sh
 ```
 
 ## What gets deployed

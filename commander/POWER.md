@@ -68,7 +68,7 @@ The server reads this path by default. Override with the `KIRO_COMMANDER_CONFIG`
 When invoking `cc_status`, pass the absolute path to Commander Collector's `apps/core/package.json` as the `package_json_path` argument. Example:
 
 ```
-/Users/<you>/FreddyRhetorickProjects/commander-collector/apps/core/package.json
+/Users/<you>/FreddyRhetorickContexts/commander-collector/apps/core/package.json
 ```
 
 # Steering
